@@ -1,0 +1,29 @@
+.header {
+    display: flex;
+    max-height: 60px;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #000000;
+    padding: 0 140px;
+}
+.img-container img{
+    width: 40%;
+}
+.cart-container {
+    width: 40px;
+    height: 40px;
+    position: relative;
+}
+.cart-count {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    background-color: #fff;
+    color: red;
+    border-radius: 40%;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

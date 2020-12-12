@@ -1,0 +1,13 @@
+.Login {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+.login-form {
+    padding: 38px 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    width: 315px;
+    height: 300px;
+}
